@@ -37,6 +37,10 @@ This project performs a comprehensive exploratory data analysis (EDA) on the Tit
    - Determined which factors (age, ticket class, cabin, family size) are most associated with survival
    - Illustrated trends with clear visualizations
 
+## Looker Studio Dashboard
+Explore the interactive dashboard here: https://lookerstudio.google.com/reporting/1c4ea987-bda8-4fc1-a7c3-da9eae2ab756
+
+
 ## How to Run
 ```bash
 # Clone repository
